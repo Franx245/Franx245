@@ -1,20 +1,16 @@
+<br/>
+
+## **Talking about Personal Stuffs:**
 ### Hey 👋🏽, I'm [Franx! - www.proximament]  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Franx245" alt="Franx245" /> </p> 
 
+:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
-<br/>
-
-Hi, I'm
-
-<h2 align="center"></h2>
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently learning GraphQL and DevOps
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I started writing blogs, by publishing them on my own website [sanketpatil.me](https://www.sanketpatil.me/) in 2020
-- 📫 How to reach me: Franx245@gmail.com
+- :earth_americas: **I'm from Buenos Aires - Argentina**
+- :video_game: **I like to play video games**
+- :gem: **I love to customize everything lol**
+- 💻 **Software Developer**
+- 📫 **How to reach me:** Franx245@gmail.com
 <h2 align="center">Skills</h2>
 
 <div align="center">
