@@ -1,4 +1,3 @@
-<br/>
 
 ## **Talking about Personal Stuffs:**
 ### Hey 👋🏽, I'm [Franx! - www.proximament]  
@@ -14,12 +13,12 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
-  <img src='./images/skills/html.png' height='80px'>
-  <img src='./images/skills/javascript.jpg' height='80px'>
-  <img src='./images/skills/react.png' height='80px'>
-  <img src='./images/skills/nodejs.png' height='80px'>
-  <img src='./images/skills/php.png' width="60px" height='80px'>
-  <img src='./images/skills/python.png' height='80px'>
+  <img src='./images/skills/html.png' height='60px'>
+  <img src='./images/skills/javascript.jpg' height='60px'>
+  <img src='./images/skills/react.png' height='60px'>
+  <img src='./images/skills/nodejs.png' height='60px'>
+  <img src='./images/skills/php.png' width="50px" height='60px'>
+  <img src='./images/skills/python.png' height='60px'>
 </div>
 
 
