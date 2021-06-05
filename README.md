@@ -1,3 +1,4 @@
+<img align='left' src='./images/skills/circuit.gif' width='38%'>
 
 ## **Talking about Personal Stuffs:**
 ### Hey 👋🏽, I'm [Franx! - www.proximament]  
@@ -23,9 +24,7 @@
 
 
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-
-
+<img src='./images/skills/dino.gif'>
 
 
 ⭐️ From [Franx245](https://github.com/[Franx245])
