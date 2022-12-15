@@ -6,7 +6,7 @@
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
 * 🌎  I'm based in Argentina
-* 🖥️  Engineering student
+* 💡  I'm 17 years old
 * ✉️  You can contact me at [hello@franx.dev](mailto:hellol@franx.dev)
 * 🧠  I'm learning new frameworks 
 * 🤝  I'm open to collaborating on interesting projects
