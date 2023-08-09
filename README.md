@@ -3,13 +3,10 @@
 ## **Talking about Personal Stuffs:**
 ### Hey 👋🏽, I'm [Franx!]  
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+---
 
 * 🌎  I'm based in Argentina
-* 💡  I'm 17 years old
-* ✉️  You can contact me at [hello@franx.dev](mailto:hellol@franx.dev)
-* 🧠  I'm learning new frameworks 
-* 🤝  I'm open to collaborating on interesting projects
+* 💡  I'm 18 years old
 <h2 align="center">Skills</h2>
 
 <h4>· Frontend: </h4>
