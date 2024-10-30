@@ -1,9 +1,15 @@
-<img align='right' src='./images/skills/circuit.gif' width='38%'>
+<img align='center' src='./images/skills/circuit.gif' width='38%'>
 
-# 👋🏽 ¡Hola, soy Franx!
+## **Talking about Personal Stuffs:**
+### Hey 👋🏽, I'm [Franx!] 
 
-## 🧑‍🎓 Estudiante de Ingeniería Informática
-
-## 💻 Apasionado por los lenguajes de bajo nivel
-
-## 📚 Actualmente aprendiendo C/C++
+---
+* 🌎  I'm based in Argentina
+* Computer Engineering Student
+* Enthusiast of Low-Level Programming Languages
+<h3>Currently learning / Wants to learn:</h3>
+<div>
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
+<img src='./images/skills/dino.gif'>
